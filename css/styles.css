@@ -1,4 +1,12 @@
 body {
-    background-color: #fff;
+    background-color:#eae0e0;
     color: rgb(173, 88, 88);
+}
+.main-text {
+    font-size: 40px;
+}
+.italic {
+    font-size: 60px;
+    display: flex;
+    
 }
